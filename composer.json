@@ -11,5 +11,6 @@
             "email": "nima_general@yahoo.com"
         }
     ],
+    "license": ["MIT"],
     "require": {}
 }
