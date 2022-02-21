@@ -1,0 +1,15 @@
+{
+    "name": "nima/composerpackage",
+    "autoload": {
+        "psr-4": {
+            "RocketValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nima shahin",
+            "email": "nima_general@yahoo.com"
+        }
+    ],
+    "require": {}
+}
