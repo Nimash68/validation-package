@@ -6,4 +6,9 @@
 		{
 			return isset($data[$field]);
 		}
+		
+		public function repositoryCheck()
+		{
+			return TRUE;
+		}
 	}
